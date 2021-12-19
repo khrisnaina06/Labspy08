@@ -148,19 +148,19 @@ def tampil():
 
 ## Berikut ini adalah gambaran programnya
 
-![gambar](ss/s4.png)
-![gambar](ss/s5.png)
-![gambar](ss/s6.png)
+![gambar2](ss/s4.png)
+![gambar3](ss/s5.png)
+![gambar4](ss/s6.png)
 
 ## Dan Berikut ini adalah program ketika dijalankan
 
-![gambar2](ss/s1.png)
+![gambar5](ss/s1.png)
 - diatas adalah tampilan menu ketika program dijalankan
 
-![gambar3](ss/s2.png)
+![gambar6](ss/s2.png)
 - diatas tampilan ketika memasukan no 1, apabila kita melanjutkan y maka akan melanjutkan dan menambahkan data, sedangkan jika kita melanjutkan T maka kita akan di arahkan ke menu utama
 
-![gambar4](ss/s3.png)
+![gambar7](ss/s3.png)
 - diatas adalah tampilan, menampilkan keseluruhan data yang sudah disimpan
 
 # salam sejahtera untuk kita semua 
